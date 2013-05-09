@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/scnuwriter/!svn/ver/42/2/templates/admin
+END
+admin_login.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/scnuwriter/!svn/ver/42/2/templates/admin/admin_login.html
+END
+admin_editpost.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/scnuwriter/!svn/ver/42/2/templates/admin/admin_editpost.html
+END
+admin_flushdata.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/scnuwriter/!svn/ver/42/2/templates/admin/admin_flushdata.html
+END
+_layout_admin.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/scnuwriter/!svn/ver/42/2/templates/admin/_layout_admin.html
+END
+admin_link.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/scnuwriter/!svn/ver/42/2/templates/admin/admin_link.html
+END
+admin_addpost.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/scnuwriter/!svn/ver/42/2/templates/admin/admin_addpost.html
+END
+error.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/scnuwriter/!svn/ver/42/2/templates/admin/error.html
+END
+admin_comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/scnuwriter/!svn/ver/42/2/templates/admin/admin_comment.html
+END
+admin_index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/scnuwriter/!svn/ver/42/2/templates/admin/admin_index.html
+END
